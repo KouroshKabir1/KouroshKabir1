@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KouroshKabir
+- 👋 Hi, I’m @Cyrus The Great
 - 👀 I’m interested in Programming, security, astronomy and history.
 - 🌱 I’m currently learning Frontend frameworks
 
